@@ -3,12 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventX.PDFBatchprint.WinForms", "InventX.PDFBatchprint.WinForms.csproj", "{FA46A68F-7F51-447B-A84E-228FA9DB8F9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDFBatchprint.WinForms", "PDFBatchprint.WinForms.csproj", "{FA46A68F-7F51-447B-A84E-228FA9DB8F9B}"
 	ProjectSection(ProjectDependencies) = postProject
 		{097048DF-E0F9-4154-B233-262580249B8C} = {097048DF-E0F9-4154-B233-262580249B8C}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventX.PDFBatchprint.Common", "..\InventX.PDFBatchPrint.Common\InventX.PDFBatchprint.Common.csproj", "{097048DF-E0F9-4154-B233-262580249B8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDFBatchprint.Common", "..\PDFBatchPrint.Common\PDFBatchprint.Common.csproj", "{097048DF-E0F9-4154-B233-262580249B8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
