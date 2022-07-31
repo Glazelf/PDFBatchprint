@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Company>InventX</Company>
+    <Authors>InventX</Authors>
+    <Product>InventX.PDFBatchprint.WinForms</Product>
+    <AssemblyName>InventX.PDFBatchprint</AssemblyName>
+    <StartupObject>InventX.PDFBatchprint.WinForms.Program</StartupObject>
+    <PackageId>InventX.PDFBatchprint.WinForms</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InventX.PDFBatchprint.Common\InventX.PDFBatchprint.Common.csproj" />
+  </ItemGroup>
+
+</Project>
